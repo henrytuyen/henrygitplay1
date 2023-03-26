@@ -25,7 +25,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Is_IT_Professional__c</field>
+
                 <field>Is_Student__c</field>
+
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
