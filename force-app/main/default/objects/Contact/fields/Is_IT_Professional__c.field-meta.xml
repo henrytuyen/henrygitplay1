@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Is_IT_Professional__c</fullName>
     <defaultValue>false</defaultValue>
-    <description>test</description>
+    <description>test if git is working</description>
     <externalId>false</externalId>
     <label>Is IT Professional</label>
     <trackFeedHistory>false</trackFeedHistory>
