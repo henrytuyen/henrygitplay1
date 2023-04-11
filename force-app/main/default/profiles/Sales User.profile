@@ -232,7 +232,7 @@
         <name>SubscribeDashboardRolesGrps</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>SubscribeDashboardToOtherUsers</name>
     </userPermissions>
     <userPermissions>
